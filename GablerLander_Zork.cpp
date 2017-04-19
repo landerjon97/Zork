@@ -3,13 +3,12 @@ Author: John Gabler, Jonathan Lander
 Project: Zork Adventure
 */
 
-#include "stdafx.h"
 #include <iostream>
 
 using namespace std;
 
 int main(){
 
-    cout << "test" << endl;
+    cout << "test3" << endl;
     return 0;
 }
